@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1588611048 source:c:\users\user\desktop\cpp\p2\numere_mari\src\bignumber.cpp
+	"BigNumber.h"
+	<bits/stdc++.h>
+
+1588611005 c:\users\user\desktop\cpp\p2\numere_mari\include\bignumber.h
+	<bits/stdc++.h>
+
+1588611119 source:c:\users\user\desktop\cpp\p2\numere_mari\main.cpp
+	<bits/stdc++.h>
+	"BigNumber.h"
+
